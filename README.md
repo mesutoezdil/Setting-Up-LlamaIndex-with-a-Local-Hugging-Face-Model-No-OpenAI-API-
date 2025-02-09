@@ -132,6 +132,7 @@ rm -rf ~/.llama_index
 
 ## **8. Conclusion**
 You have successfully:
+
 ✅ Installed LlamaIndex in a virtual environment  
 ✅ Used a **local Hugging Face embedding model**  
 ✅ Indexed and queried documents without using OpenAI API  
